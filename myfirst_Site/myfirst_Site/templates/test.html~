@@ -1,0 +1,10 @@
+<html>
+<title>My First Django Web</title>
+<head>first django web</head>
+<body>
+	<br>
+		<p><a href="hello" target=_blank>jump to hell</a></p>
+		<p><a href='http://www.baidu.com' target=_blank>baidu</a></p>
+	</br>
+</body>
+</html>

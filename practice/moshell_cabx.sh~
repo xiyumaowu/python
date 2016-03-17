@@ -1,0 +1,4 @@
+#!/bin/bash
+enb_ip = "10.185.4.39"
+moshell $enb_ip 'run moshell_command.mos' >> hw_list
+
